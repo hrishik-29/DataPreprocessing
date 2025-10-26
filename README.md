@@ -1,5 +1,4 @@
-# ElevateLabs_Task1_DataPreprocessing
-# Elevate Labs AI & ML Internship - Task 1: Data Cleaning & Preprocessing
+# Data Cleaning & Preprocessing
 
 ## Objective
 
